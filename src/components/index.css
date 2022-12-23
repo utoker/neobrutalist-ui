@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Mabry pro';
+  src: local('mabry-pro'),
+    url('../fonts/mabry-pro/Mabry-Pro-Medium.ttf') format('truetype');
+}
